@@ -47,9 +47,10 @@ More screenshots are in [`marketing/final/screenshots`](marketing/final/screensh
 ## Hosted version & paid installation
 
 Need Referzen hosted for you, installed on your own server, or customised? Contact
-**[EpiFive](https://www.epifive.com/services)**.
+**[EpiFive](https://www.epifive.com/services#custom-app-development)**.
 
-More open-source projects: https://www.epifive.com/open-source
+- Step-by-step guide: [Referzen on the EpiFive blog](https://www.epifive.com/blog/referzen-open-source-affiliate-software)
+- More open-source projects: [epifive.com/open-source](https://www.epifive.com/open-source)
 
 ## Quick start
 
