@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-label="Northwind">
+  <rect x="2" y="2" width="36" height="36" rx="10" fill="#2563eb"/>
+  <path d="M12.5 29V11l15 18V11" fill="none" stroke="#fff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

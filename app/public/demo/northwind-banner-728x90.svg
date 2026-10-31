@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="728" height="90" viewBox="0 0 728 90" role="img" aria-label="Northwind: plan remote work without status meetings. Start free for 14 days">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="728" height="90" fill="url(#g)"/>
+  <circle cx="660" cy="-20" r="90" fill="#3b82f6" opacity=".35"/>
+  <circle cx="610" cy="120" r="60" fill="#60a5fa" opacity=".25"/>
+  <rect x="22" y="25" width="40" height="40" rx="11" fill="#fff"/>
+  <path d="M33 56V34l18 22V34" fill="none" stroke="#2563eb" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="78" y="42" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#fff">Plan remote work without status meetings</text>
+  <text x="78" y="66" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#dbeafe">Projects, OKRs and weekly check-ins in one calm workspace.</text>
+  <rect x="560" y="27" width="146" height="36" rx="18" fill="#fff"/>
+  <text x="633" y="50" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1d4ed8">Start free trial</text>
+</svg>
