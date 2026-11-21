@@ -1,5 +1,14 @@
 # Referzen
 
+<!-- epifive:header -->
+> Run an affiliate or referral program for your SaaS or online store, with sale tracking, an affiliate portal and payouts, on your own server.
+
+[![Licence: MIT](https://img.shields.io/badge/licence-MIT-0a7560?style=flat-square)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/epifive/referzen?style=flat-square&label=release&color=4f5bd5)](https://github.com/epifive/referzen/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/epifive/referzen?style=flat-square&color=b5791b)](https://github.com/epifive/referzen/stargazers)
+
+**[Docs & guide on epifive.com](https://www.epifive.com/blog/referzen-open-source-affiliate-software?utm_source=github&utm_medium=readme&utm_campaign=referzen)** · **[Live demo](https://referzen-demo.vercel.app)** · **[Download the latest release](https://github.com/epifive/referzen/releases/latest)**
+
 **Open-source affiliate and referral program software — as a self-hosted SaaS.** Merchants create
 referral programs for their SaaS product or online store, affiliates get a branded portal, and
 sales are tracked from Stripe, WooCommerce, Shopify, a generic webhook or the REST API. Built with
@@ -89,3 +98,7 @@ Bug reports and pull requests are welcome — please open an
 ## License
 
 [MIT](LICENSE) © 2026 EpiFive
+
+---
+
+<p align="center">Made by <b>EpiFive</b> — <a href="https://www.epifive.com/?utm_source=github&utm_medium=readme&utm_campaign=referzen">www.epifive.com</a> · <a href="https://www.epifive.com/open-source?utm_source=github&utm_medium=readme&utm_campaign=referzen">more open-source projects</a></p>
